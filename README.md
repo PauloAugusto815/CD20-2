@@ -27,6 +27,6 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exercícios](./aula04/Aula04_Exercicio_ExplorandoVariáveisQuantitativas_LIFE.ipynb)
     - [Base de dados: EmpresaTV Cod.xlsx](./aula04/EmpresaTV Cod.xlsx)
     - [Base de dados: Life.xlsx](./aula04/Life.xlsx)
- - [Aula 06 - Teoria da Probabilidade](./aula04)
+ - [Aula 06 - Teoria da Probabilidade](./aula06)
     - [Exercícios](./aula06/Aula06_Exercicio_TeoriaDaProbabilidade.ipynb)
     

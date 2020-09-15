@@ -22,3 +22,11 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exercícios](./aula03/Aula03_Exercicio_ExplorandoDuasVariaveisQuantitativas_Discriminacao.ipynb)
     - [Base de dados: Discriminacao.xlsx](./aula03/Discriminacao.xlsx)
     - [Base de dados: Mundo.xlsx](./aula03/Mundo.xlsx)
+- [Aula 04 - Histograma e Medidas resumo](./aula04)
+    - [Atividade de sala](./aula04/Aula04_Atividade_ExplorandoVariáveisQuantitativas_TV.ipynb)
+    - [Exercícios](./aula04/Aula04_Exercicio_ExplorandoVariáveisQuantitativas_LIFE.ipynb)
+    - [Base de dados: EmpresaTV Cod.xlsx](./aula04/EmpresaTV%20Cod.xlsx)
+    - [Base de dados: Life.xlsx](./aula04/Life.xlsx)
+ - [Aula 06 - Teoria da Probabilidade](./aula06)
+    - [Exercícios](./aula06/Aula06_Exercicio_TeoriaDaProbabilidade.ipynb)
+    

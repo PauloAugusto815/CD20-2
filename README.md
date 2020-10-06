@@ -49,6 +49,6 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exercícios](./aula11/Aula11_Exercicios_ModelosProbabilísticosDiscretos.ipynb)
     - [Base de dados: erupcoes.csv](./aula11/erupcoes.csv)  
   - [Aula 12 - Modelos probabilísticos contínuos: Uniforme e Exponencial](./aula12)
-    - [Exemplo](./aula12/Aula%2012_Exemplo.ipynb)
+    - [Exemplo](./aula12/Aula%2012_Exemplos.ipynb)
     - [Atividade](./aula12/Aula%2012_Atividade_Exponencial.ipynb)
     - [Base de dados: transitores.csv](./aula12/transitores.csv)  
